@@ -1,0 +1,100 @@
+query1.png,Car,Palm,Car,Car,Traffic Light,Palm,Car,Traffic Light,Traffic Light,Bus
+query2.png,Palm,Car,Car,Traffic Light,Palm,Car,Traffic Light,Traffic Light,Bus,Car
+query3.png,Car,Palm,Palm,Car,Car,Traffic Light,Car,Traffic Light,Car,Traffic Light
+query4.png,Palm,Car,Palm,Car,Car,Traffic Light,Car,Traffic Light,Bus,Car
+query5.png,Palm,Car,Traffic Light,Car,Palm,Car,Bus,Car,Traffic Light,Car
+query6.png,Car,Palm,Car,Car,Traffic Light,Traffic Light,Palm,Traffic Light,Car,Bus
+query7.png,Car,Palm,Car,Car,Bus,Car,Traffic Light,Palm,Traffic Light,Traffic Light
+query8.png,Car,Palm,Car,Car,Traffic Light,Bus,Traffic Light,Traffic Light,Car,Palm
+query9.png,Car,Palm,Car,Car,Traffic Light,Car,Traffic Light,Bus,Palm,Car
+query10.png,Palm,Car,Bus,Car,Car,Car,Traffic Light,Palm,Traffic Light,Traffic Light
+query11.png,Traffic Light,Traffic Light,Palm,Palm,Car,Car,Bus,Car,Traffic Light,Car
+query12.png,Traffic Light,Palm,Traffic Light,Car,Palm,Car,Car,Car,Bus,Traffic Light
+query13.png,Palm,Car,Traffic Light,Car,Bus,Palm,Car,Traffic Light,Car,Car
+query14.png,Palm,Palm,Traffic Light,Car,Car,Traffic Light,Car,Car,Bus,Car
+query15.png,Palm,Traffic Light,Traffic Light,Palm,Car,Car,Car,Car,Traffic Light,Bus
+query16.png,Traffic Light,Traffic Light,Car,Palm,Palm,Car,Car,Bus,Car,Car
+query17.png,Palm,Traffic Light,Bus,Traffic Light,Car,Car,Palm,Car,Car,Car
+query18.png,Palm,Car,Traffic Light,Traffic Light,Palm,Car,Car,Car,Bus,Car
+query19.png,Traffic Light,Palm,Palm,Car,Traffic Light,Bus,Car,Car,Car,Car
+query20.png,Car,Traffic Light,Palm,Traffic Light,Car,Palm,Car,Bus,Car,Car
+query21.png,Traffic Light,Palm,Car,Bus,Traffic Light,Car,Car,Car,Palm,Car
+query22.png,Car,Bus,Palm,Traffic Light,Car,Palm,Traffic Light,Car,Car,Car
+query23.png,Car,Palm,Car,Palm,Bus,Car,Traffic Light,Car,Car,Traffic Light
+query24.png,Palm,Palm,Traffic Light,Bus,Car,Car,Car,Traffic Light,Car,Traffic Light
+query25.png,Bus,Car,Palm,Traffic Light,Car,Car,Palm,Traffic Light,Car,Car
+query26.png,Bus,Car,Car,Traffic Light,Palm,Traffic Light,Palm,Car,Car,Car
+query27.png,Car,Bus,Car,Palm,Traffic Light,Palm,Car,Traffic Light,Car,Car
+query28.png,Bus,Traffic Light,Car,Car,Palm,Traffic Light,Car,Palm,Car,Car
+query29.png,Bus,Car,Palm,Car,Car,Traffic Light,Palm,Car,Traffic Light,Car
+query30.png,Car,Bus,Car,Palm,Traffic Light,Car,Palm,Car,Traffic Light,Car
+query31.png,Car,Traffic Light,Car,Bus,Palm,Palm,Traffic Light,Car,Car,Car
+query32.png,Car,Car,Bus,Palm,Traffic Light,Traffic Light,Car,Palm,Car,Traffic Light
+query33.png,Traffic Light,Car,Car,Bus,Palm,Traffic Light,Car,Car,Palm,Traffic Light
+query34.png,Traffic Light,Palm,Car,Car,Palm,Traffic Light,Car,Car,Car,Bus
+query35.png,Car,Car,Traffic Light,Palm,Traffic Light,Bus,Car,Palm,Car,Car
+query36.png,Car,Palm,Bus,Traffic Light,Car,Traffic Light,Car,Palm,Car,Car
+query37.png,Traffic Light,Palm,Car,Car,Bus,Traffic Light,Palm,Car,Car,Car
+query38.png,Traffic Light,Traffic Light,Palm,Car,Car,Palm,Bus,Car,Car,Traffic Light
+query39.png,Traffic Light,Palm,Car,Car,Car,Traffic Light,Bus,Traffic Light,Car,Palm
+query40.png,Palm,Palm,Car,Traffic Light,Car,Traffic Light,Traffic Light,Car,Car,Bus
+query41.png,Traffic Light,Palm,Palm,Traffic Light,Traffic Light,Car,Car,Car,Car,Car
+query42.png,Palm,Traffic Light,Car,Palm,Traffic Light,Traffic Light,Car,Car,Car,Car
+query43.png,Palm,Traffic Light,Car,Traffic Light,Car,Car,Traffic Light,Car,Palm,Bus
+query44.png,Palm,Palm,Traffic Light,Car,Traffic Light,Car,Traffic Light,Car,Car,Car
+query45.png,Palm,Traffic Light,Palm,Car,Traffic Light,Car,Car,Car,Traffic Light,Bus
+query46.png,Palm,Traffic Light,Traffic Light,Palm,Car,Car,Traffic Light,Car,Car,Bus
+query47.png,Traffic Light,Traffic Light,Palm,Car,Car,Palm,Traffic Light,Car,Car,Car
+query48.png,Palm,Traffic Light,Car,Palm,Traffic Light,Car,Car,Car,Car,Bus
+query49.png,Palm,Car,Palm,Car,Traffic Light,Traffic Light,Traffic Light,Car,Car,Bus
+query50.png,Palm,Car,Palm,Car,Traffic Light,Traffic Light,Bus,Car,Car,Car
+query51.png,Car,Palm,Palm,Car,Traffic Light,Traffic Light,Traffic Light,Car,Bus,Car
+query52.png,Car,Palm,Palm,Traffic Light,Car,Traffic Light,Traffic Light,Car,Car,Bus
+query53.png,Palm,Car,Palm,Car,Traffic Light,Car,Car,Car,Traffic Light,Bus
+query54.png,Car,Palm,Palm,Car,Bus,Traffic Light,Car,Car,Traffic Light,Traffic Light
+query55.png,Car,Palm,Palm,Car,Car,Bus,Traffic Light,Traffic Light,Car,Car
+query56.png,Car,Palm,Palm,Car,Car,Car,Traffic Light,Traffic Light,Traffic Light,Car
+query57.png,Palm,Car,Palm,Traffic Light,Traffic Light,Car,Traffic Light,Bus,Car,Car
+query58.png,Car,Palm,Palm,Car,Traffic Light,Traffic Light,Car,Bus,Traffic Light,Car
+query59.png,Car,Palm,Palm,Traffic Light,Car,Car,Traffic Light,Car,Traffic Light,Bus
+query60.png,Car,Palm,Car,Palm,Car,Traffic Light,Traffic Light,Car,Car,Bus
+query61.png,Car,Car,Traffic Light,Palm,Palm,Car,Traffic Light,Car,Car,Traffic Light
+query62.png,Palm,Car,Car,Palm,Traffic Light,Car,Car,Traffic Light,Bus,Car
+query63.png,Car,Palm,Palm,Car,Car,Car,Traffic Light,Car,Bus,Traffic Light
+query64.png,Car,Palm,Palm,Car,Traffic Light,Traffic Light,Car,Car,Bus,Car
+query65.png,Car,Car,Palm,Traffic Light,Car,Palm,Car,Traffic Light,Car,Traffic Light
+query66.png,Car,Palm,Traffic Light,Car,Palm,Car,Car,Traffic Light,Car,Traffic Light
+query67.png,Palm,Car,Palm,Car,Car,Car,Traffic Light,Car,Bus,Traffic Light
+query68.png,Car,Car,Palm,Traffic Light,Car,Bus,Car,Traffic Light,Palm,Car
+query69.png,Car,Car,Palm,Traffic Light,Traffic Light,Palm,Car,Bus,Car,Car
+query70.png,Car,Palm,Car,Car,Palm,Car,Traffic Light,Bus,Traffic Light,Car
+query71.png,Car,Palm,Car,Car,Traffic Light,Bus,Car,Palm,Traffic Light,Car
+query72.png,Car,Car,Palm,Bus,Car,Traffic Light,Car,Palm,Traffic Light,Car
+query73.png,Car,Palm,Car,Car,Traffic Light,Traffic Light,Bus,Car,Traffic Light,Palm
+query74.png,Car,Palm,Car,Bus,Car,Car,Traffic Light,Traffic Light,Palm,Traffic Light
+query75.png,Bus,Car,Car,Palm,Car,Car,Traffic Light,Palm,Traffic Light,Car
+query76.png,Car,Palm,Car,Car,Bus,Car,Traffic Light,Palm,Traffic Light,Traffic Light
+query77.png,Car,Palm,Car,Car,Bus,Traffic Light,Car,Traffic Light,Traffic Light,Palm
+query78.png,Car,Car,Car,Palm,Traffic Light,Bus,Palm,Traffic Light,Car,Car
+query79.png,Car,Palm,Car,Bus,Car,Car,Traffic Light,Traffic Light,Traffic Light,Palm
+query80.png,Traffic Light,Palm,Traffic Light,Palm,Car,Car,Car,Car,Car,Bus
+query81.png,Palm,Palm,Car,Car,Car,Traffic Light,Traffic Light,Car,Bus,Car
+query82.png,Palm,Palm,Car,Car,Traffic Light,Traffic Light,Car,Car,Car,Bus
+query83.png,Traffic Light,Traffic Light,Palm,Car,Palm,Car,Car,Car,Bus,Car
+query84.png,Palm,Palm,Car,Car,Traffic Light,Traffic Light,Car,Car,Car,Bus
+query85.png,Car,Traffic Light,Traffic Light,Car,Palm,Palm,Car,Car,Bus,Car
+query86.png,Palm,Palm,Car,Traffic Light,Car,Car,Traffic Light,Car,Traffic Light,Bus
+query87.png,Palm,Traffic Light,Traffic Light,Car,Palm,Car,Car,Bus,Car,Car
+query88.png,Palm,Traffic Light,Car,Car,Traffic Light,Palm,Car,Car,Car,Traffic Light
+query89.png,Palm,Palm,Traffic Light,Traffic Light,Car,Car,Car,Car,Traffic Light,Car
+query90.png,Traffic Light,Traffic Light,Palm,Palm,Car,Traffic Light,Car,Car,Car,Bus
+query91.png,Palm,Traffic Light,Car,Car,Car,Traffic Light,Traffic Light,Palm,Bus,Car
+query92.png,Traffic Light,Traffic Light,Car,Palm,Palm,Car,Traffic Light,Car,Bus,Car
+query93.png,Traffic Light,Traffic Light,Palm,Car,Palm,Traffic Light,Car,Car,Bus,Car
+query94.png,Traffic Light,Traffic Light,Palm,Palm,Traffic Light,Car,Car,Car,Car,Bus
+query95.png,Traffic Light,Traffic Light,Palm,Palm,Car,Car,Traffic Light,Car,Car,Car
+query96.png,Traffic Light,Traffic Light,Traffic Light,Car,Car,Car,Palm,Palm,Bus,Car
+query97.png,Traffic Light,Traffic Light,Traffic Light,Car,Palm,Palm,Car,Car,Bus,Car
+query98.png,Traffic Light,Palm,Car,Traffic Light,Car,Palm,Car,Traffic Light,Car,Bus
+query99.png,Traffic Light,Palm,Palm,Traffic Light,Traffic Light,Bus,Car,Car,Car,Car
+query100.png,Traffic Light,Traffic Light,Palm,Car,Car,Palm,Bus,Car,Car,Car
